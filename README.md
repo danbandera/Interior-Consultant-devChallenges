@@ -34,7 +34,7 @@
 
 ![screenshot](/InteriorConsultant.png)
 
-Responsive Team page, where you can write an introduction for your team and then introduce every member and their role.
+Simple but modern Interior Design Consultant Page, it adapts content to mobile devices and also changes the menu to be appropriate for small screens.
 
 ### Built With
 
